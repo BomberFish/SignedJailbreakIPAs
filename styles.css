@@ -1,0 +1,17 @@
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI Variable', 'Segoe UI', 'Roboto Flex', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+button {
+  scale: 1.25;
+  padding: 7px;
+  margin: 1%;
+  display: block;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
