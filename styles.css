@@ -1,5 +1,5 @@
 body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI Variable', 'Segoe UI', 'Roboto Flex', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-family: "Comic Sans MS", "Comic Sans", "Comic Neue", cursive, fantasy;
 }
 
 button {
@@ -12,6 +12,9 @@ button {
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 100%;
+}
+
+p {
+  text-align: center;
 }
